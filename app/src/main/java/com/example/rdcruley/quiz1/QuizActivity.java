@@ -129,7 +129,7 @@ public class QuizActivity extends AppCompatActivity {
                             // whenever data at this location is updated.
                             int value = dataSnapshot.getValue(Integer.class);
                             Log.d("TAG", "Value is: " + value);
-                            if(value >= mCurrentScore)
+                            if(value < mCurrentScore)
                                 myRef.setValue(mCurrentScore);
                         }
 
