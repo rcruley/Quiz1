@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Quiz1</string>
+    <string name="question1_1">The capital of Florida is Miami.</string>
+    <string name="question1_2">The capital of Rhode Island is Providence.</string>
+    <string name="question1_3">The capital of Virginia is Fairfax.</string>
+    <string name="question1_4">The capital of Massachusetts is Boston.</string>
+    <string name="question1_5">The capital of Maryland is Baltimore.</string>
+    <string name="question2_1">The capital of FL is in the northern part of the state</string>
+    <string name="question2_2">The capital of RI is its largest city</string>
+    <string name="question2_3">The capital of VA was the confederate capital during the Civil War</string>
+    <string name="question2_4">Harvard University is located is MA's capital.</string>
+    <string name="question2_5">The capital of MD is not its largest city.</string>
+    <string name="true_button">TRUE</string>
+    <string name="false_button">FALSE</string>
+    <string name="next_button">NEXT</string>
+    <string name="hint_button">HINT</string>
+    <string name="close_button">CLOSE</string>
+    <string name="correct_toast">Yay!</string>
+    <string name="incorrect_toast">Try Again</string>
+    <string name="done">Quiz finished</string>
+    <string name="warning_text">Are you sure you want a hint?</string>
+    <string name="show_answer_button">SHOW</string>
+    <string name="answer_text_view">  </string>
+    <string name="hint_text_view">Are you sure?</string>
+    <string name="current_score">Current score:</string>
+</resources>
